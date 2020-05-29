@@ -19,6 +19,6 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 - [ShaRaf]()
 
-- [Hazem]()
+- [Hazem](hazem.md)
 
 - [Razvan]()
