@@ -8,12 +8,12 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 - [Tiago](./tiago.md)
 
-### Our students 
+### Our students
 
 
 - [Ismail]()
 
-- [Olga](https://github.com/okozmovskaya) 
+- [Olga](https://github.com/okozmovskaya)
 
 - [Kateryna]()
 
@@ -21,4 +21,4 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 - [Hazem](hazem.md)
 
-- [Razvan]()
+- [Razvan](razvan.md)
