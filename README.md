@@ -13,7 +13,7 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 - [Ismail]()
 
-- [Olga]() 
+- [Olga](https://github.com/okozmovskaya) 
 
 - [Kateryna]()
 
