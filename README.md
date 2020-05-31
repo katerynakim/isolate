@@ -6,7 +6,7 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 ## Coaches
 
-- [Tiago]()
+- [Tiago](./tiago.md)
 
 ### Our students 
 
