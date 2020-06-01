@@ -6,12 +6,12 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 ## Coaches
 
-- [Tiago]()
+- [Tiago](./tiago.md)
 
-### Our students 
+### Our students
 
 
-- [Ismail]()
+- [Ismail](https://github.com/ismailtugan)
 
 - [Olga](https://github.com/katerynakim/isolate/blob/master/olga.md) 
 
@@ -19,6 +19,6 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 - [ShaRaf]()
 
-- [Hazem]()
+- [Hazem](hazem.md)
 
-- [Razvan]()
+- [Razvan](razvan.md)
