@@ -15,7 +15,7 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 - [Olga](https://github.com/katerynakim/isolate/blob/master/olga.md) 
 
-- [Kateryna]()
+- [Kateryna](https://github.com/katerynakim/isolate/blob/master/kateryna.md)
 
 - [ShaRaf]()
 
