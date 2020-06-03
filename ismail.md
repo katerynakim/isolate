@@ -7,12 +7,15 @@ Student Bio
 ### About Me
 
 My name is Ismail! I'm from turkey.Currently lives in Bruxelles!He has 26 years old! he love to play sport;reading books! Passionate to become software developer..
+<<<<<<< Updated upstream
 
 
 
 
 
 
+=======
+>>>>>>> Stashed changes
 
 ---
 [My live demo](https://ismailtugan.github.io/)

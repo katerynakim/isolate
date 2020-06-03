@@ -8,6 +8,7 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 - [Tiago](./tiago.md)
 
+<<<<<<< Updated upstream
 ### Our students
 
 
@@ -22,3 +23,19 @@ _We are the **Hack Youre Future DREAM TEAM**_
 - [Hazem](hazem.md)
 
 - [Razvan](razvan.md)
+=======
+### Our students 
+
+
+- [Ismail](./ismail.md)
+
+- [Olga](https://github.com/okozmovskaya) 
+
+- [Kateryna]()
+
+- [ShaRaf]()
+
+- [Hazem]()
+
+- [Razvan]()
+>>>>>>> Stashed changes
