@@ -8,7 +8,6 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 - [Tiago](./tiago.md)
 
-<<<<<<< Updated upstream
 ### Our students
 
 
