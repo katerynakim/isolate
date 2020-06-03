@@ -12,8 +12,7 @@ _We are the **Hack Youre Future DREAM TEAM**_
 ### Our students
 
 
-- [Ismail](https://github.com/ismailtugan)
-
+- [Ismail](./ismail.md)
 - [Olga](https://github.com/katerynakim/isolate/blob/master/olga.md) 
 
 - [Kateryna](https://github.com/katerynakim/isolate/blob/master/kateryna.md)
@@ -23,19 +22,3 @@ _We are the **Hack Youre Future DREAM TEAM**_
 - [Hazem](hazem.md)
 
 - [Razvan](razvan.md)
-=======
-### Our students 
-
-
-- [Ismail](./ismail.md)
-
-- [Olga](https://github.com/okozmovskaya) 
-
-- [Kateryna]()
-
-- [ShaRaf]()
-
-- [Hazem]()
-
-- [Razvan]()
->>>>>>> Stashed changes
