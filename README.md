@@ -4,21 +4,19 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 
 
-## Coaches
-
-- [Tiago]()
-
-### Our students 
 
 
-- [Ismail]()
+### Our students
 
-- [Olga]() 
 
-- [Kateryna](https://github.com/katerynakim)
+- [Ismail](./ismail.md)
+- [Olga](https://github.com/katerynakim/isolate/blob/master/olga.md) 
+
+- [Kateryna](https://github.com/katerynakim/isolate/blob/master/kateryna.md)
 
 - [ShaRaf]()
 
-- [Hazem]()
+- [Hazem](hazem.md)
 
-- [Razvan]()
+- [Razvan](razvan.md)
+
