@@ -4,9 +4,7 @@ _We are the **Hack Youre Future DREAM TEAM**_
 
 
 
-## Coaches
 
-- [Tiago](./tiago.md)
 
 ### Our students
 
@@ -21,3 +19,4 @@ _We are the **Hack Youre Future DREAM TEAM**_
 - [Hazem](hazem.md)
 
 - [Razvan](razvan.md)
+
